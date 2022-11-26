@@ -6,7 +6,7 @@
 - 🔭 Check out my projects below!
 - 🌱 I’m currently learning node.js
 - 🎯 2023 Goals: learn typescript, docker
-- ⚡ Fun fact: I graduated with an art history 🎨
+- 😆 Fun fact: I graduated with an art history 🎨
 
 <h2></h2>
 
