@@ -26,9 +26,9 @@
 
 <details>
   <summary>Stats</summary>
-  <img align="center" alt="propanibutan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=propanibutan&show_icons=true&hide_border=true&hide=contribs,stars&count_private=true&theme=tokyonight" />
-    </br>
-  <img align="center" alt="propanibutan's strike stats" src="https://github-readme-streak-stats.herokuapp.com/?user=propanibutan&theme=tokyonight&hide_border=false&count_private=true&hide_border=true" />
-  </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=propanibutan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <div align="center">
+    <img alt="propanibutan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=propanibutan&show_icons=true&hide_border=true&hide=contribs,stars&count_private=true&theme=tokyonight" />
+    <img alt="propanibutan's strike stats" src="https://github-readme-streak-stats.herokuapp.com/?user=propanibutan&theme=tokyonight&hide_border=false&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=propanibutan&layout=compact&theme=tokyonight&hide_border=true"/>
+  </div>
 </details>
