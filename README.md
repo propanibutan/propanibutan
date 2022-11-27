@@ -17,13 +17,12 @@
 
 <div>
   <p>I also worked with 
-    <img align="center" width="46" src="https://skillicons.dev/icons?i=webpack"/>
+    <img align="center" src="https://skillicons.dev/icons?i=webpack,figma"/>
     <img align="center" width="46" src="./icons/babel-10.svg"/>
     <img align="center" width="20" src="./icons/gulp.svg"/>
     <img align="center" width="46" src="./icons/mural.png"/>
     <img align="center" width="46" src="./icons/miro-2.svg"/>
     <img align="center" width="46" src="./icons/jira-3.svg"/>
-    <img align="center" src="https://skillicons.dev/icons?i=figma"/>
   </p>
   <p>My lately discover🔎 
     <img align="center" width="46px" alt="mjml" src="https://camo.githubusercontent.com/dfc5947f73d06fb13d065a4927a28cbd0b8e85c4a65866447dd2fb6ff5d9497f/68747470733a2f2f617474696c61627574692e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f617474696c61627574692f7673636f64652d6d6a6d6c2f302e302e322f313439343139373731363636342f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74"/>
