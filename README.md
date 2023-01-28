@@ -5,7 +5,7 @@
 - 👀 I'm looking for a job as [junior developer](https://www.linkedin.com/in/patrycja-zalas/)
 - 🔭 Check out my projects below!
 - 🌱 I’m currently learning node.js
-- 🎯 2023 goals: learn typescript, angular.js and docker
+- 🎯 2023 goals: learn typescript, vue.js and docker
 - 😆 Fun fact: I graduated with an art history 🎨
 
 <h2></h2>
