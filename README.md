@@ -36,13 +36,13 @@
 <h2></h2>
 <div>
   <h3>You can reach me by</h3>
-  <a href="https://linkedin.com/in/patrycja-zalas" target="_blank" rel="noreferrer noopener">
+  <a href="https://linkedin.com/in/patrycja-zalas" target=_blank>
     <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://m.me/pbzalas" target="_blank" rel="noreferrer noopener">
+  <a href="https://m.me/pbzalas" target="_blank">
     <img align="center" width="46px" src="./icons/facebook-messenger-logo-2020.svg">
   </a>
-  <a href="mailto:zalas.patrycja@gmail.com" target="_blank" rel="noreferrer noopener">
+  <a href="mailto:zalas.patrycja@gmail.com" target="_blank">
     <img align="center" height="52px" src="./icons/email.png">
   </a>
 </div>
