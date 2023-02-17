@@ -42,6 +42,9 @@
   <a href="https://m.me/pbzalas">
     <img width="46px" src="./icons/facebook-messenger-logo-2020.svg">
   </a>
+  <a href="mailto:zalas.patrycja@gmail.com">
+    <img width="52px" src="./icons/email.png">
+  </a>
 </div>
 
 <h2></h2>
