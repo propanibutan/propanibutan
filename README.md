@@ -1,4 +1,4 @@
-# 👾Hi there, I'm Patrycja (she/her)👾
+# 👾Hi there, I'm Patrycja👾
 
 ## I'm a junior frontend developer
 
