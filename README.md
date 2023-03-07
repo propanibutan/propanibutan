@@ -39,8 +39,8 @@
   </a>
   <a href="https://m.me/pbzalas">
     <img align="center" width="46px" src="./icons/facebook-messenger-logo-2020.svg">
-  </a>mailto:zalas.patrycja@gmail.com
-  <a href="">
+  </a>
+  <a href="mailto:zalas.patrycja@gmail.com">
     <img align="center" height="52px" src="./icons/email.png">
   </a>
 </div>
