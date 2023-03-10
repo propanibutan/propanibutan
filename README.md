@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning node.js
 - 🎯 2023 goals: learn typescript, vue.js and docker
 - 😆 Fun fact: I graduated with an art history 🎨
-$${\color{mediumslateblue}Red}$$
+$${color{red}mediumslateblue}$$
 <a href="https://patrycja-zalas.netlify.app/" style="font-weight: bold; color: mediumslateblue">Check out my portfolio webpage!</a>
 
 ### Languages and tools
