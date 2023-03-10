@@ -8,7 +8,7 @@
 - 🎯 2023 goals: learn typescript, vue.js and docker
 - 😆 Fun fact: I graduated with an art history 🎨
 
-<a href="https://patrycja-zalas.netlify.app/" align="center" style="font-weight: bold; text-align: center; color: mediumslateblue" target="_blank" rel="noreferrer">Check out my portfolio webpage!</a>
+<a href="https://patrycja-zalas.netlify.app/" style="font-weight: bold"><h2 color="mediumslateblue">Check out my portfolio webpage!</h2></a>
 
 ### Languages and tools
 ![skills](https://skillicons.dev/icons?i=react,js,sass,html,css,materialui,firebase,vscode,git,github,netlify&theme=dark)
