@@ -3,7 +3,7 @@
 ## I'm a junior frontend developer
 
 - 👀 I'm looking for a job as [junior developer](https://www.linkedin.com/in/patrycja-zalas/)
-- 🔭 Check out my projects below!
+- 🔭 Check out my projects below! If you liked any of my projects leave a :star:.
 - 🌱 I’m currently learning node.js
 - 🎯 2023 goals: learn typescript, vue.js and docker
 - 😆 Fun fact: I graduated with an art history 🎨
