@@ -11,14 +11,14 @@
 :point_right:<a href="https://pbzalas.dev/" style="font-weight: bold">Check out my portfolio webpage!</a>
 
 ### Languages and tools
-![skills](https://skillicons.dev/icons?i=react,js,sass,html,css,materialui,firebase,vscode,git,github,netlify&theme=dark)
+![skills](https://skillicons.dev/icons?i=react,js,sass,html,css,vscode,git,github,netlify&theme=dark)
 <img width="46" src="./icons/slack-new-logo.svg"/>
 <img width="46" src="./icons/trello.svg"/>
 <img width="46" src="./icons/microsoft-windows-22.svg"/>
 
 <div>
   <p>I also worked with 
-    <img align="center" src="https://skillicons.dev/icons?i=webpack,figma,babel,gulp,nodejs,express,mongodb,ts,bootstrap,jest"/>
+    <img align="center" src="https://skillicons.dev/icons?i=webpack,figma,babel,gulp,nodejs,express,mongodb,firebase,ts,materialui,bootstrap,jest"/>
     <img align="center" width="46" src="./icons/mural.png"/>
     <img align="center" width="46" src="./icons/miro-2.svg"/>
     <img align="center" width="46" src="./icons/jira-3.svg"/>
