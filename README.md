@@ -8,7 +8,7 @@
 - 🎯 2023 goals: learn typescript, react native, vue.js and docker
 - 😆 Fun fact: I graduated with an art history 🎨
 
-:point_right:<a href="https://pbzalas.dev/" style="font-weight: bold">Check out my portfolio webpage!</a>
+:point_right:<a href="https://main--patrycja-zalas.netlify.app/" style="font-weight: bold">Check out my portfolio webpage!</a>
 
 ### Languages and tools
 ![skills](https://skillicons.dev/icons?i=react,js,sass,html,css,vscode,git,github,netlify&theme=dark)
