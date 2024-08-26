@@ -5,7 +5,7 @@
 - 👀 I'm looking for a job as [junior developer](https://www.linkedin.com/in/patrycja-zalas/)
 - 🔭 Check out my projects below! If you liked any of my projects leave a :star:.
 - 🌱 I’m currently learning node.js
-- 🎯 2023 goals: learn typescript, react native, vue.js and docker
+- 🎯 2024 goals: go back to programming
 - 😆 Fun fact: I graduated with an art history 🎨
 
 :point_right:<a href="https://main--patrycja-zalas.netlify.app/" style="font-weight: bold">Check out my portfolio webpage!</a>
